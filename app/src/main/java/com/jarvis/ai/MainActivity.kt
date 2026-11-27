@@ -1,4 +1,3 @@
-
 package com.jarvis.ai
 
 import android.content.Intent
@@ -32,7 +31,7 @@ class MainActivity : AppCompatActivity() {
     private val workerUrl =
         "https://empty-cloud-9e93.santhoshkumars0625.workers.dev"
 
-    private val appToken = "J2rv#s_TN62!Ai_8kp@21"
+    private val appToken = "J5rv#s_TN62!Ai_6kp@01"
 
     private val executor = Executors.newSingleThreadExecutor()
     private val handler = Handler(Looper.getMainLooper())
